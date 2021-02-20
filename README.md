@@ -3,6 +3,6 @@ Project made with Roc Salvador (@rocsalvador) and Enric Condal (@henrycoas) in P
 
 ---
 ## License & Copyright
-© Xavier Coll Ribas
+© Xavier Coll Ribas \n
 © Roc Salvador Andreazini
 © Enric Condal Asensio
